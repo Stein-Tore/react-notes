@@ -1,6 +1,13 @@
 Created 2019-08-05 from https://aws.amazon.com/amplify/console/getting-started/
 forked from dabit3/react-notes
 
+Had to fix node version for Lambda.
+
+Next got autentication error with create user pool.
+
+Tried again, then it worked but stopped without error message at line 411 of Build Backend.
+
+
 # Building a ‘Notes’ app with Amplify Framework and React
 
 ### Overview
