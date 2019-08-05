@@ -1,3 +1,6 @@
+Created 2019-08-05 from https://aws.amazon.com/amplify/console/getting-started/
+forked from dabit3/react-notes
+
 # Building a ‘Notes’ app with Amplify Framework and React
 
 ### Overview
